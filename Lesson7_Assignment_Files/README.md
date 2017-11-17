@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 9, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Elie Emile )
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This lesson was about jQuery and its uses for making coding in Java language less lengthy an dhow it can also be used to amke web pages interactive. )
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+( https://ee-15.github.io/emile_lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Enables developers to implement common JavaScript tasks with minimal code.)
+2. (You can indicated a jQuery statement by placing a "$" at the start of the statement.)
+3. (You can group jQuery statements into multiple functions. )
 
