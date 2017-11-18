@@ -13,7 +13,7 @@ Web Application Development
 (This lesson was about jQuery and its uses for making coding in Java language less lengthy an dhow it can also be used to amke web pages interactive. )
 
 ### View Project Online:
-( https://ee-15.github.io/emile_lesson7_jquery/)
+( https://ee-15.github.io/emile_lesson7_jquery/Lesson7_Assignment_Files)
 
 ### Lessons Learned in the Assignment:
 1. (Enables developers to implement common JavaScript tasks with minimal code.)
